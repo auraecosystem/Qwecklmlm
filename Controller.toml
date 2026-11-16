@@ -1,0 +1,6 @@
+description = "Create a test for a Spring Boot Controller"
+prompt = """
+Write a unit test for this code code using JUnit. 
+Use WebMvcTest. 
+Use MockMvc. 
+Use AssertJ assertions.
